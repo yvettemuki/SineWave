@@ -1,0 +1,18 @@
+﻿  gl_core_3_3.c
+  main.cpp
+C:\Code\github_repo\assignment3\base_freeglut\main.cpp(287,5): warning C4838: conversion from 'GLuint' to 'int' requires a narrowing conversion
+C:\Code\github_repo\assignment3\base_freeglut\main.cpp(308,24): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Code\github_repo\assignment3\base_freeglut\main.cpp(324,25): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Code\github_repo\assignment3\base_freeglut\main.cpp(490,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+C:\Code\github_repo\assignment3\base_freeglut\mesh.cpp(149,26): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Code\github_repo\assignment3\base_freeglut\mesh.cpp(187,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Code\github_repo\assignment3\base_freeglut\mesh.cpp(190,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  util.cpp
+C:\Code\github_repo\assignment3\base_freeglut\util.cpp(23,32): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+  Generating code
+  1303 of 1322 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  base_freeglut.vcxproj -> C:\Code\github_repo\assignment3\base_freeglut\x64\Release\base_freeglut.exe
