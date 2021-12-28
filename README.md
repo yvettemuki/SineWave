@@ -4,14 +4,13 @@
 
 ##### Render Effect Images:
 
-1. 
-![alt text](sinewave_1.png "1")
+1. daytime ocean surface
+![Alt Text](sinewave_gif.gif)
 
-2. 
+2. sunset ocean surface
 ![alt text](sinewave_2.png "2")
 
-3. 
+3. add Gerstner(Peak) Waves
 ![alt text](sinewave_3.png "3")
 
-4. 
-![alt text](sinewave_4.png "4")
+
